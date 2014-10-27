@@ -1,4 +1,4 @@
-# HelloApp - Sample App using the Presentation API Plugin
+# HelloApp - Sample App using the Cordova Presentation API Plugin
 
 NOTICE: For a detailed **description** and **screenshots** of this app see the
 project website: [http://fraunhoferfokus.github.io/cordova-plugin-presentation-helloapp/](http://fraunhoferfokus.github.io/cordova-plugin-presentation-helloapp/).
@@ -24,10 +24,14 @@ properly.
 $ git clone https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp
 $ cd cordova-plugin-presentation-helloapp
 $ cordova platform add ios
-$ cordova plugin add https://github.com/fraunhoferfokus/cordova-plugin-presentation
+$ cordova plugin add de.fhg.fokus.famium.presentation
 $ cordova build ios
 $ cordova run ios
 ```
+
+Note: alternatively to installing the cordova plugin from the registry, the plugin can be installed by pointing to its repository
+
+```$ cordova plugin add https://github.com/fraunhoferfokus/cordova-plugin-presentation.git```
 
 ## Android instructions
 
@@ -38,10 +42,14 @@ and have cordova set up properly.
 $ git clone https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp
 $ cd cordova-plugin-presentation-helloapp
 $ cordova platform add android
-$ cordova plugin add https://github.com/fraunhoferfokus/cordova-plugin-presentation
+$ cordova plugin add de.fhg.fokus.famium.presentation
 $ cordova build android
 $ cordova run android
 ```
+
+Note: alternatively to installing the cordova plugin from the registry, the plugin can be installed by pointing to its repository
+
+```$ cordova plugin add https://github.com/fraunhoferfokus/cordova-plugin-presentation.git```
 
 # Notice
 
