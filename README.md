@@ -5,7 +5,7 @@ project website: [http://fraunhoferfokus.github.io/cordova-plugin-presentation-h
 
 This sample app bases on the standard cordova sample app and extends it by a
 multi-screen feature using the
-[Cordova Presentation API Plugin](https://github.com/fraunhoferfokus/cordova-plugin-presentation).
+[Cordova Presentation API Plugin](http://fraunhoferfokus.github.io/cordova-plugin-presentation/).
 The goal of this app is to showcase the capability of the Presentation API that is
 discussed by the [W3C Second Screen Presentation Working Group](http://www.w3.org/2014/secondscreen/).
 
@@ -13,7 +13,7 @@ Comments and contribution anytime welcome.
 
 # Build and run intructions
 
-Currently the [Cordova Presentation API Plugin](https://github.com/fraunhoferfokus/cordova-plugin-presentation) supports Android and iOS.
+Currently the [Cordova Presentation API Plugin](http://fraunhoferfokus.github.io/cordova-plugin-presentation/) supports Android and iOS.
 
 ## iOS instructions
 
@@ -62,3 +62,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+### Contact
+
+[Fraunhofer FOKUS - Competence Center FAME // Future Applications and Media](http://www.fokus.fraunhofer.de/en/fame/index.html)
+
