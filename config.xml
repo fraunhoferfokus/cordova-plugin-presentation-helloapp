@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="de.fhg.fokus.famium.presentation.helloworld" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HelloPresentation</name>
+    <description>
+    A sample Apache Cordova application that utilizes the Presentation API Plugin.
+    </description>
+    <author email="martin.lasak@fokus.fraunhofer.de" href="https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp">
+    Fraunhofer FOKUS
+    </author>
+    <content src="sender.html" />
+    <preference name="Orientation" value="both" />
+    <preference name="DisallowOverscroll" value="true"/>
+    <access origin="*" />
+    <feature name="Presentation">
+    </feature>
+</widget>
