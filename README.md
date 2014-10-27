@@ -9,7 +9,7 @@ multi-screen feature using the
 The goal of this app is to showcase the capability of the Presentation API that is
 discussed by the [W3C Second Screen Presentation Working Group](http://www.w3.org/2014/secondscreen/).
 
-Comments and contribution anytime welcome.
+[Comments](https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp/issues) and [contribution](https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp/pulls) anytime welcome.
 
 # Build and run intructions
 
