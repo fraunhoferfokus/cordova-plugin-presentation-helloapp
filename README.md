@@ -4,7 +4,7 @@ NOTICE: For a detailed **description** and **screenshots** of this app see the
 project website: [http://fraunhoferfokus.github.io/cordova-plugin-presentation-helloapp/](http://fraunhoferfokus.github.io/cordova-plugin-presentation-helloapp/).
 
 This sample app bases on the standard cordova sample app and extends it by a
-multi-screen feature using the
+multiscreen feature using the
 [Cordova Presentation API Plugin](http://fraunhoferfokus.github.io/cordova-plugin-presentation/).
 The goal of this app is to showcase the capability of the Presentation API that is
 discussed by the [W3C Second Screen Presentation Working Group](http://www.w3.org/2014/secondscreen/).
