@@ -8,7 +8,7 @@
     Fraunhofer FOKUS
     </author>
     <content src="sender.html" />
-    <preference name="Orientation" value="both" />
+    <preference name="Orientation" value="default" />
     <preference name="DisallowOverscroll" value="true"/>
     <access origin="*" />
     <feature name="Presentation">
